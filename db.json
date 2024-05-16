@@ -1,4 +1,5 @@
-[
+{
+  "records":[
   {
     "name": "City Limousines",
     "date": "30 Aug",
@@ -28,6 +29,7 @@
     "date": "12 Sep",
     "amount": 250.0,
     "type": "Sales Invoice"
-  },
+  }
 
 ]
+}
