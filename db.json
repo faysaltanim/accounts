@@ -29,34 +29,5 @@
     "amount": 250.0,
     "type": "Sales Invoice"
   },
-  {
-    "name": "PowerDirect",
-    "date": "11 Sep",
-    "amount": 108.60,
-    "type": "Sales Invoice"
-  },
-  {
-    "name": "PC Complete",
-    "date": "17 Sep",
-    "amount": 216.99,
-    "type": "Sales Invoice"
-  },
-  {
-    "name": "Truxton Properties",
-    "date": "17 Sep",
-    "amount": 181.25,
-    "type": "Sales Invoice"
-  },
-  {
-    "name": "MCO Cleaning Services",
-    "date": "17 Sep",
-    "amount": 170.50,
-    "type": "Sales Invoice"
-  },
-  {
-    "name": "Gateway Motors",
-    "date": "18 Sep",
-    "amount": 411.35,
-    "type": "Sales Invoice"
-  }
+
 ]
